@@ -1,0 +1,148 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.d-inline-block {
+  margin-left: 10px;
+}
+.navbar,.navbar-brand{
+  font-size: x-large;
+  color:black;
+
+
+
+ 
+}
+
+.bg{
+  background-image: url("https://www.shutterstock.com/image-photo/composition-pizza-oil-cherry-tomatoes-260nw-714929695.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.loginbg{
+  
+    background-image: url("https://img.freepik.com/free-vector/pizza-doodle-patterned-background_53876-97421.jpg?w=900&t=st=1675067654~exp=1675068254~hmac=942e431775872e1019d5fb49da1c44df9ff28c93ec583927809346f087a360de");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+
+
+.btn{
+  color:black;
+  font-weight:bolder ;
+  background-color: red;
+}
+.col{
+  text-decoration: none;
+  color: black;
+  margin-left: 10px;
+}
+.col-1{
+  color: darkgray;
+  text-decoration: none;
+  font-size:17px ;
+  
+}
+.foot{
+  color: orange;
+  text-align: center;
+  font-style: italic;
+
+}
+.story{
+  font-size:medium;
+  font-weight: 450;
+  margin-top: 5px;
+  width: 90%;
+  margin: auto;
+}
+
+.container1{
+  display: flex;
+  margin-left: 5%;
+  margin-top: 1%;
+}
+
+.text1{
+  padding-left: 30px;
+  margin-right: 5%;
+}
+.container2{
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.text2{
+  margin-top: 5%;
+}
+#image2{
+  float: right;
+}
+.text3{
+  padding-top: 10%;
+}
+
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+
+.glass{
+  background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 8.5px );
+-webkit-backdrop-filter: blur( 8.5px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+/* .giff{
+  width: 400px;
+  height: 400px;
+  align-content: center;
+} */
+
+
+.center {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+  background-color: antiquewhite;
+  width: 50%;
+}
+.card{
+  background-color: antiquewhite;
+  margin-left: 280px;
+  margin-right:280px ;
+}
+.pizzacom{
+  height: 50px;
+  width:  100px;
+}
+.dec{
+  margin-top: 30px;
+}
+.orde{
+  background-image: url("https://media1.giphy.com/media/3ohjV4TqA25cn3HnK8/giphy.gif?cid=ecf05e473i4b1ciovjblso9f2saatfk8u9nm9zsshrbnbft3&rid=giphy.gif&ct=g");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
